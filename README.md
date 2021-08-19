@@ -2,6 +2,6 @@
 ## Проект выполнил: Попов Сергей
 
 ### Технологии
--html
--css
--javascript
+- html
+- css
+- javascript
